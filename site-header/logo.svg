@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="980"
+   height="120"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="bicicletada-logo.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="445.35733"
+     inkscape:cy="-31.789211"
+     inkscape:document-units="px"
+     inkscape:current-layer="g2996"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
+     inkscape:window-x="0"
+     inkscape:window-y="33"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-932.36215)">
+    <g
+       id="g2996"
+       transform="translate(-182.33254,72.730983)">
+      <path
+         style="fill:#b3b3b3"
+         d="m 222.82685,936.34244 c -0.38319,-0.62002 5.19767,-13.54105 12.40192,-28.71342 l 13.09862,-27.58613 7.34585,0.35592 c 6.56161,0.31794 7.38746,0.64891 7.7356,3.1002 0.35833,2.52302 -0.0883,2.74428 -5.53938,2.74428 l -5.92914,0 -3.30327,6.73525 c -1.8168,3.70437 -3.30328,6.99751 -3.30328,7.31805 0,0.32056 8.50725,0.58282 18.905,0.58282 10.39775,0 18.90499,0.28357 18.90499,0.63016 0,0.34658 -3.0187,6.64927 -6.70823,14.00597 -3.68952,7.3567 -6.70822,13.65938 -6.70822,14.00596 0,0.34659 7.5742,0.63016 16.83154,0.63016 16.89728,0 20.31236,0.79723 18.92313,4.41749 -0.51565,1.34377 -5.14436,1.6809 -23.07855,1.6809 -12.33844,0 -22.43353,-0.27821 -22.43353,-0.61825 0,-0.34003 3.34177,-6.92629 7.42617,-14.63613 l 7.42617,-14.01787 -16.29143,0 -16.29142,0 -7.59421,15.24596 c -7.01506,14.0833 -9.79079,17.39931 -11.81833,14.11868 z"
+         id="path3000"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/vinicius/tmp/logo-bicicletada.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#4d4d4d"
+         d="m 212.84273,955.80604 c -10.96369,-6.28817 -15.48426,-19.87882 -10.36233,-31.15339 4.40643,-9.69958 15.82273,-15.47782 25.58004,-14.79507 6.68316,0.46764 5.73932,0.66437 4.36494,3.65387 -1.26897,2.76023 0.24884,2.1605 -6.43201,2.02415 -14.91515,-0.3044 -24.1762,14.82539 -17.55293,28.00819 6.40569,12.74975 25.56224,13.29618 33.31271,0.95022 3.60377,-5.74057 3.11259,-16.42772 -1.66751,-22.06347 -2.88211,-3.39802 -4.50332,-2.69981 -2.54459,-6.21763 1.71322,-3.0769 1.3701,-3.10134 5.67032,1.43706 6.96342,7.34914 8.76961,17.63512 4.59233,26.83798 -6.37205,14.0381 -21.61481,18.97272 -34.96097,11.31809 z m 82.04014,0.60635 c -5.73842,-2.04544 -12.64835,-8.39372 -14.93374,-13.71986 -3.16297,-7.37137 -2.13031,-6.44248 1.1201,-6.44248 2.0973,0 2.56947,-0.64903 4.34688,4.2663 0.8485,2.34648 3.52309,5.77681 5.94355,7.62298 3.62343,2.76373 5.64064,3.35668 11.41947,3.35668 10.57189,0 17.8924,-6.42463 19.05298,-16.72128 2.34124,-20.77144 -26.64931,-28.78318 -35.63916,-9.84915 -2.92154,6.15324 -3.15416,5.14867 -5.31585,5.18188 -2.53109,0.0389 -3.03774,0.3776 -2.04968,-3.30991 3.57856,-13.35538 18.50298,-21.7553 31.72149,-17.3928 5.49602,1.81385 12.27886,7.5814 14.92993,12.69514 1.07905,2.08141 1.98228,6.80016 2.00811,10.49112 0.0822,11.73188 -7.01215,21.23275 -18.12013,24.26697 0,0 -8.66665,1.62799 -14.48395,-0.44559 z m -20.04542,-60.05328 c -2.97759,-0.38639 -3.93445,-1.06251 -3.6451,-2.5756 0.3285,-1.71779 2.25551,-2.10913 11.84117,-2.40476 l 11.44882,-0.35308 -1.84654,2.79244 c -1.47849,2.23584 -3.03394,2.81959 -7.80373,2.92868 -3.27645,0.075 -7.77403,-0.0995 -9.99462,-0.38768 z"
+         id="path2998"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="sssssssssssssssssssssssssssssscscs"
+         inkscape:export-filename="/home/vinicius/tmp/logo-bicicletada.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <text
+         xml:space="preserve"
+         style="font-size:33.80832291px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+         x="359.61612"
+         y="909.82922"
+         id="text3002"
+         sodipodi:linespacing="125%"
+         inkscape:export-filename="/home/vinicius/tmp/logo-bicicletada.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           sodipodi:role="line"
+           id="tspan3004"
+           x="359.61612"
+           y="909.82922"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#333333;font-family:Diehl Deco;-inkscape-font-specification:Diehl Deco">Bicicletada</tspan></text>
+      <path
+         style="fill:#000000;stroke:#7d7d7d;stroke-width:0.84520805px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 343.11442,873.7183 0,90.5528"
+         id="path3043"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc"
+         inkscape:export-filename="/home/vinicius/tmp/logo-bicicletada.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3813"
+         y="962.52692"
+         x="358.09863"
+         style="font-size:50.49102783px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+         xml:space="preserve"
+         inkscape:export-filename="/home/vinicius/tmp/logo-bicicletada.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           style="font-size:50.49102783px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#333333;font-family:Diehl Deco;-inkscape-font-specification:Diehl Deco"
+           y="962.52692"
+           x="358.09863"
+           id="tspan3815"
+           sodipodi:role="line">curitiba</tspan></text>
+    </g>
+  </g>
+</svg>
